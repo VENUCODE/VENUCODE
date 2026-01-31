@@ -1,7 +1,7 @@
 <!-- Animated Header - Transparent/Professional -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Yedukondalu%20Naik%20Bhukya&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20AI%20Agent%20Developer&descAlignY=55&descSize=16)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Yedukondalu%20Naik%20Bhukya&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&r&descAlignY=55&descSize=16)
 
 </div>
 
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/@_Tars-667eea?style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
 
 <!-- Animated Stats Bar -->
 <p align="center">
@@ -28,7 +29,13 @@
   <img src="https://komarev.com/ghpvc/?username=VENUCODE&style=for-the-badge&color=667eea&labelColor=0D1117" alt="Profile Views"/>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/VENUCODE?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x2"/>
+  </a>
+  <br>
+  <sub><b>Pull Shark x2</b></sub>
+</p>
 
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
@@ -47,13 +54,8 @@ const yedukondalu = {
         voiceIntegration: "STT & TTS in chatbots",
         frontend: "Next.js + Tailwind + shadcn/ui"
     },
-    
-    askMeAbout: [
-        "AI Agents", "MCP Servers", "MERN Stack",
-        "React", "Node.js", "Electron"
-    ],
-    
-    funFact: "I mass integrated 800+ MCP tools 🔧"
+
+        funFact: "I mass integrated 800+ MCP tools 🔧"
 };
 ```
 
